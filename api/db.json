@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "title": "Post Two 2",
+      "body": "This is post two, nice111",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "This is post three my guy"
+    },
+    {
+      "title": "Hypnosis",
+      "body": "Super weird dont truy it at hgome",
+      "id": 4
+    },
+    {
+      "title": "Lauren Bailey",
+      "body": "weweedwdw",
+      "id": 5
+    },
+    {
+      "title": "Hypnosis",
+      "body": "tertretete",
+      "id": 6
+    },
+    {
+      "title": "Hypnosis",
+      "body": "test1234",
+      "id": 7
+    },
+    {
+      "title": "Post Two",
+      "body": "This is post two, nice",
+      "id": 8
+    },
+    {
+      "title": "Post Two",
+      "body": "This is post two, nice",
+      "id": 9
+    },
+    {
+      "title": "Post Two",
+      "body": "This is post two, nice 1111",
+      "id": 10
+    }
+  ]
+}
